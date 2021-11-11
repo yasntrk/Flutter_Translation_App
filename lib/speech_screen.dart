@@ -212,7 +212,7 @@ class _SpeechScreenState extends State<SpeechScreen> {
 
       var temp3 = speak_trans1;
       speak_trans1 = speak_trans2;
-      speak_trans2 = temp3;
+      speak_trans2 = temp3; //Change
     });
   }
 }

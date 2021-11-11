@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false, //Removes debug mode banner
       theme: ThemeData(
         primarySwatch: Colors.blue,
-      ),
+      ), //Change
       home: SpeechScreen(), //Opens SpeechScreen
     );
   }
